@@ -1,4 +1,5 @@
---
+--1. CREACIÓN DE LA TABLA.
+--A. 
 CREATE TABLE ecommerce_transactions (
     venta_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     invoice_no VARCHAR(20) NOT NULL,

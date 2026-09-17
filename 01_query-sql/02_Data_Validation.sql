@@ -22,7 +22,7 @@ FROM ecommerce_transactions
 WHERE invoice_no != TRIM(invoice_no)
    OR stock_code != TRIM(stock_code)
    OR country != TRIM(country);
--- # EN CASO DE HALLAR SE REALIZA UN UPDATE DE LAS COLUMNAS PARA QUE ESTÉN LOS VALORES CORRECTAMENTE.
+-- # EN CASO DE HALLAR SE REALIZA UN UPDATE DE LAS COLUMNAS PARA QUE ESTÉN LOS VALORES CORRECTAMENTE SIN ESPACIOS EXTRAS.
 UPDATE ecommerce_transactions
 SET invoice_no = TRIM(invoice_no),
     stock_code = TRIM(stock_code),
@@ -47,7 +47,7 @@ WHERE description ~ '[^\x20-\x7E\xC0-\xFF]';
 SELECT COUNT(*) AS total_null_customer_id
 FROM ecommerce_transactions
 WHERE customer_id IS NULL;
--- # EN CASO DE HALLAR VALORRES NULOS EN LA COLUMNA "customer_id".
+-- # EN CASO DE HALLAR VALORRES NULOS EN LA COLUMNA "customer_id" SE REEMPLAZAN POR 0.
 UPDATE customer_id
 SET customer_id = 0
 WHERE customer_id IS NULL;
@@ -56,7 +56,7 @@ WHERE customer_id IS NULL;
 SELECT COUNT(*) AS total_description_faltante
 FROM ecommerce_transactions
 WHERE description IS NULL OR TRIM(description) = '';
--- # EN CASO DE HALLAR VALORRES NULOS O FILAS QUE SEAN ÚNICAMENTE UN ESPACIO.
+-- # EN CASO DE HALLAR VALORRES NULOS O FILAS QUE SEAN ÚNICAMENTE UN ESPACIO SE REEMPLAZAN POR 'SIN DESCRIPCIÓN'.
 UPDATE ecommerce_transactions
 SET description = 'SIN DESCRIPCIÓN'
 WHERE description IS NULL OR TRIM(description) = '';

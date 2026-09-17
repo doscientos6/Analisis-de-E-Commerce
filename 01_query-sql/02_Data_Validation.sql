@@ -19,3 +19,8 @@ SELECT venta_id, description
 FROM ecommerce_transactions
 WHERE description ~ '[^\x20-\x7E\xC0-\xFF]';
 
+--
+
+SELECT *
+FROM eccomerce_trarnsactions
+WHERE 

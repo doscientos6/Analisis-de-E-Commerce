@@ -39,3 +39,4 @@ WHERE description IS NULL;
 SELECT 
    *
 FROM ecommerce_transactions
+WHERE customer_id IS NULL;

@@ -4,8 +4,8 @@ Este proyecto es un análisis de transacciones de e-commerce basado en el datase
 
 ## 📂 Dataset
 
-- **Fuente:** <!-- Pegar acá el link del dataset de Kaggle -->
-- **Período cubierto:** Año 2010.
+- **Fuente:** https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data
+
 
 ---
 
@@ -43,16 +43,9 @@ Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y l
 
 ### Fase 3: Análisis e Insights
 
-> ⚠️ _Sección en construcción — se completará una vez ejecutadas las queries y analizados los resultados._
 
-- **Ventas por país:** _Completar._
-- **Clientes recurrentes:** _Completar._
-- **Promedio de productos por cliente:** _Completar._
-- **Estacionalidad de ventas:** _Completar._
-- **Top 10 productos más vendidos:** _Completar._
 
 ---
 
 ## 📬 Contacto
-
-<!-- Pegar acá tu LinkedIn / portfolio -->
+https://www.linkedin.com/in/lautaro-vila-gallardo-5a8b2b405/

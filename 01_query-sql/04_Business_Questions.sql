@@ -1,5 +1,10 @@
 
 --A. Ventas por país.
+SELECT
+  SUM(quantity) AS ventas,
+  country AS pais
+FROM ecommerce_transactions
+GROUP BY country
 
 --B. Cantidad de clientes recurrentes
 

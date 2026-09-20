@@ -6,7 +6,6 @@ Este proyecto es un análisis de transacciones de e-commerce basado en el datase
 
 - **Fuente:** https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data
 
-
 ---
 
 ## Tecnologías y Herramientas
@@ -43,7 +42,37 @@ Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y l
 
 ### Fase 3: Análisis e Insights
 
+> ⚠️ _Sección en construcción — se completará con capturas del dashboard y el análisis correspondiente a cada pregunta de negocio._
 
+**Ventas por país**
+
+<!-- Insertar captura del dashboard -->
+
+_Completar con el análisis en base a lo observado en el dashboard._
+
+**Clientes recurrentes**
+
+<!-- Insertar captura del dashboard -->
+
+_Completar con el análisis en base a lo observado en el dashboard._
+
+**Promedio de productos por cliente**
+
+<!-- Insertar captura del dashboard -->
+
+_Completar con el análisis en base a lo observado en el dashboard._
+
+**Estacionalidad de ventas**
+
+<!-- Insertar captura del dashboard -->
+
+_Completar con el análisis en base a lo observado en el dashboard._
+
+**Top 10 productos más vendidos**
+
+<!-- Insertar captura del dashboard -->
+
+_Completar con el análisis en base a lo observado en el dashboard._
 
 ---
 

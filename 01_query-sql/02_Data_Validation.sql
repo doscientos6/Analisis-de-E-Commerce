@@ -48,7 +48,7 @@ SELECT COUNT(*) AS total_null_customer_id
 FROM ecommerce_transactions
 WHERE customer_id IS NULL;
 -- # EN CASO DE HALLAR VALORRES NULOS EN LA COLUMNA "customer_id" SE REEMPLAZAN POR 0.
-UPDATE customer_id
+UPDATE ecommerce_transactions
 SET customer_id = 0
 WHERE customer_id IS NULL;
 

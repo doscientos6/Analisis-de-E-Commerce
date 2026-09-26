@@ -9,9 +9,7 @@
 
 <img width="1718" height="834" alt="image" src="https://github.com/user-attachments/assets/44d35ef6-ca79-4d55-b0db-c3f9501cb510" />
 
-Utilizamos las opciones de "Distribución de las columnas" y "Calidad de las columnas" para verificar que las 35 columnas no tengan errores o valores nulos, además que las filas que tienen que ser valores únicos o solo tienen que haber un número exacto de medidas de esa variable se cumplan, por ejemplo attrition o employeenumber.
-
-
+Utilizamos las opciones de "Distribución de las columnas" y "Calidad de las columnas" para verificar columnas con valores inconsistentes o nulos
 
 
 

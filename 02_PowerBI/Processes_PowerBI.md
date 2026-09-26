@@ -13,7 +13,7 @@ Utilizamos las opciones de "Distribución de las columnas" y "Calidad de las col
 
 # 3. KPIs descriptivos
 
-<img width="1137" height="128" alt="image" src="https://github.com/user-attachments/assets/6f274d63-9aa3-4b7b-be5c-1ea005591c69" />
+<img width="626" height="116" alt="image" src="https://github.com/user-attachments/assets/8c297bb9-4bf9-4562-bf96-f25aa57e483b" />
 
 # 4. KPIs sobre las preguntas de negocio
 

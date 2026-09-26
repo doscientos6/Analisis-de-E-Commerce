@@ -9,12 +9,13 @@
 
 <img width="1718" height="834" alt="image" src="https://github.com/user-attachments/assets/44d35ef6-ca79-4d55-b0db-c3f9501cb510" />
 
-Utilizamos las opciones de "Distribución de las columnas" y "Calidad de las columnas" para verificar columnas con valores inconsistentes o nulos
+Utilizamos las opciones de "Distribución de las columnas" y "Calidad de las columnas" para verificar columnas con valores inconsistentes o nulos.
 
-
+# 3. KPIs descriptivos
 
 <img width="1137" height="128" alt="image" src="https://github.com/user-attachments/assets/6f274d63-9aa3-4b7b-be5c-1ea005591c69" />
 
+# 4. KPIs sobre las preguntas de negocio
 
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/61050927-ff67-488c-bf46-3e673688d699" />
 

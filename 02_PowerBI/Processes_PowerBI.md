@@ -19,3 +19,4 @@ Utilizamos las opciones de "Distribución de las columnas" y "Calidad de las col
 
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/61050927-ff67-488c-bf46-3e673688d699" />
 
+# 5. Diseño del dashboard

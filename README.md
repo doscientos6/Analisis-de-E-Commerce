@@ -1,4 +1,4 @@
-# 🛒 Análisis de E-Commerce (Kaggle Dataset)
+# 🛒 Análisis de E-Commerce Shop (Kaggle Dataset)
 
 Este proyecto es un análisis de transacciones de e-commerce basado en el dataset de Kaggle "E-Commerce Analysis". El objetivo principal fue identificar patrones de venta, comportamiento de clientes y productos clave, y traducir los datos en insights accionables para la toma de decisiones.
 

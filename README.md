@@ -42,8 +42,6 @@ https://drive.google.com/file/d/1lac6OiZqdHPvegVw4byh4vno8d2Bw4bk/view?usp=drive
 
 ### Fase 3: Análisis e Insights
 
-> ⚠️ _Sección en construcción — se completará con capturas del dashboard y el análisis correspondiente a cada pregunta de negocio._
-
 **Ventas por país**
 
 <img width="575" height="340" alt="image" src="https://github.com/user-attachments/assets/107de861-fcac-4e97-85c1-150388c4c2ea" />

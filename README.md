@@ -36,9 +36,9 @@ Antes de analizar los datos, se aseguró la integridad de la carga y se construy
 
 Se desarrolló un reporte interactivo enfocado en la experiencia del usuario y la claridad visual. 
 
-<img width="1429" height="784" alt="image" src="https://github.com/user-attachments/assets/4884e27c-4f4a-4618-92f9-7a0fc4a3782d" />
-
 https://drive.google.com/file/d/1lac6OiZqdHPvegVw4byh4vno8d2Bw4bk/view?usp=drive_link
+
+<img width="1429" height="784" alt="image" src="https://github.com/user-attachments/assets/4884e27c-4f4a-4618-92f9-7a0fc4a3782d" />
 
 ### Fase 3: Análisis e Insights
 

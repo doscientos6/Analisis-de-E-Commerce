@@ -42,13 +42,13 @@ https://drive.google.com/file/d/1lac6OiZqdHPvegVw4byh4vno8d2Bw4bk/view?usp=drive
 
 ### Fase 3: Análisis e Insights
 
-**Ventas por país**
+**VENTAS POR PAÍS**
 
 <img width="575" height="340" alt="image" src="https://github.com/user-attachments/assets/107de861-fcac-4e97-85c1-150388c4c2ea" />
 
 UK concentra la gran mayoría de las ventas totales ($10,64 mill.), lo cual es esperable tratándose de una tienda local. Excluyéndolo para poder comparar al resto, Netherlands ($285 mil) y EIRE ($283 mil) lideran el mercado internacional, seguidos de cerca por Germany ($229 mil) y France ($210 mil). A partir de Australia ($139 mil) se observa una caída pronunciada, y el resto de los países (Spain, Switzerland, Belgium, Sweden, Japan) representan una porción marginal del negocio ($37-62 mil cada uno). Esto sugiere que, más allá del mercado doméstico, la empresa tiene una base de clientes internacionales concentrada en un puñado de países europeos cercanos, con oportunidad de expansión en los mercados de cola larga.
 
-**Clientes recurrentes**
+**CLIENTES RECURRENTES**
 
 <img width="368" height="296" alt="image" src="https://github.com/user-attachments/assets/cebd5dde-cb7d-4803-9a51-ff0a445f8582" />
 

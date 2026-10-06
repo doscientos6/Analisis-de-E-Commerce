@@ -54,19 +54,19 @@ UK concentra la gran mayoría de las ventas totales ($10,64 mill.), lo cual es e
 
 El 65,58% de los clientes (3 mil) realizó más de una compra, mientras que el 34,42% restante (1,49 mil) compró una única vez. Que la mayoría de la base sea recurrente es una señal positiva de fidelización: indica que el negocio no depende exclusivamente de la captación constante de clientes nuevos, sino que logra retener a una parte significativa de su audiencia después de la primera compra.
 
-**Promedio de productos por cliente**
+**PROMEDIO DE PRODUCTOS POR CLIENTES**
 
 <img width="265" height="124" alt="image" src="https://github.com/user-attachments/assets/1bd6113d-66b4-4632-bbfb-826596723ce7" />
 
 En promedio, cada cliente compró 1.260 unidades a lo largo del período analizado. Este número relativamente alto es consistente con el tipo de producto que maneja el negocio (artículos de bazar y regalería de bajo costo unitario), donde es común que una misma compra incluya grandes cantidades de un mismo artículo (por ejemplo, revendedores o compras para eventos).
 
-**Estacionalidad de ventas**
+**ESTACIONALIDAD DE VENTAS**
 
 <img width="565" height="331" alt="image" src="https://github.com/user-attachments/assets/b4eec2c8-ebd4-4642-8db7-8f4025bae345" />
 
 Las ventas muestran una clara estacionalidad: se mantienen relativamente estables y bajas entre enero y agosto (entre $0,5 mill. y $0,8 mill. mensuales), con una caída puntual en febrero-marzo, y a partir de septiembre comienzan a crecer de forma sostenida hasta alcanzar su pico en noviembre ($1,51 mill.), coincidiendo con la temporada de compras previa a las fiestas de fin de año. Este patrón es un insight clave para la planificación de inventario, campañas de marketing y dotación de personal, ya que anticipa con claridad cuándo se concentra la mayor demanda del año.
 
-**Top 10 productos más vendidos**
+**TOP 10 DE PRODUCTOS MÁS VENDIDOS**
 
 <img width="821" height="294" alt="image" src="https://github.com/user-attachments/assets/32436d98-f2db-4e32-a1f9-e765e5d5c4a6" />
 

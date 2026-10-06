@@ -19,6 +19,7 @@ Utilizamos las opciones de "Distribución de las columnas" y "Calidad de las col
 
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/61050927-ff67-488c-bf46-3e673688d699" />
 
+Debido a el valor extremo que tenía UK, en el dashboard se optó por filtrarlo, para así poder lograr realizar un análisis del resto de países de una forma mucho más preciosa.
 # 5. Diseño del dashboard
 
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/179deab0-490d-4412-a683-e470ce8dffc8" />
